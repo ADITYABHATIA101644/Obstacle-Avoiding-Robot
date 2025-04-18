@@ -23,3 +23,6 @@ This project is an autonomous obstacle-avoiding car built using Arduino. It dete
 - Power the Arduino using a battery.
 - **Obstacle Avoiding Robot** is successfully made.
 
+**Name-** Aditya Bhatia
+**Uid-** 24BAI70084
+**Section-** 24AML101-A
